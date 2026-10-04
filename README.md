@@ -26,26 +26,26 @@ I'm a backend developer in Finland with three years of full-time experience acro
   <tr>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java&theme=dark">
-        <img src="https://skillicons.dev/icons?i=python,java&theme=light" alt="Python, Java">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cjava&theme=dark">
+        <img src="https://skillicons.dev/icons?i=python%2Cjava&theme=light" alt="Python, Java">
       </picture>
     </td>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,flask,graphql&theme=dark">
-        <img src="https://skillicons.dev/icons?i=fastapi,flask,graphql&theme=light" alt="FastAPI, Flask, GraphQL">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi%2Cflask%2Cgraphql&theme=dark">
+        <img src="https://skillicons.dev/icons?i=fastapi%2Cflask%2Cgraphql&theme=light" alt="FastAPI, Flask, GraphQL">
       </picture>
     </td>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,kafka&theme=dark">
-        <img src="https://skillicons.dev/icons?i=postgres,kafka&theme=light" alt="PostgreSQL, Kafka">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Ckafka&theme=dark">
+        <img src="https://skillicons.dev/icons?i=postgres%2Ckafka&theme=light" alt="PostgreSQL, Kafka">
       </picture>
     </td>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,githubactions,linux&theme=dark">
-        <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux&theme=light" alt="Docker, Git, GitHub Actions, Linux">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cgit%2Cgithubactions%2Clinux&theme=dark">
+        <img src="https://skillicons.dev/icons?i=docker%2Cgit%2Cgithubactions%2Clinux&theme=light" alt="Docker, Git, GitHub Actions, Linux">
       </picture>
     </td>
   </tr>
